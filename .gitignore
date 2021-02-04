@@ -6,3 +6,6 @@ build
 out
 model.pptx
 ~$model.pptx
+
+*.iml
+target/
